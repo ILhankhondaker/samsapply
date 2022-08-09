@@ -1,10 +1,9 @@
 import React from 'react';
-import { FaArrowCircleRight } from 'react-icons/fa'
 import './About.css'
 
 const About = () => {
     return (
-        <div class="hero min-h-screen bg-base-200 about">
+        <div class="hero min-h-screen bg-base-200 aboutt">
             <div class="hero-content flex-col lg:flex-row mt-10 ">
 
                 <div>

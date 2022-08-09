@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "University of Suffolk",
+        "inst": "University",
+        "location": "Suffolk",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/349.png"
+    },
+    {
+        "id": 2,
+        "name": "Global Business School",
+        "inst": "University",
+        "location": "London",
+        "img": ""
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "London School of Business",
+        "inst": "Collage",
+        "location": "London",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/235.png"
+    },
+    {
+        "id": 2,
+        "name": "University of Law",
+        "inst": "University",
+        "location": "Birmingham",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/364.png"
+    },
+    {
+        "id": 3,
+        "name": "Arden University",
+        "inst": "University",
+        "location": "Coventry",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/442.png"
+    },
+    {
+        "id": 4,
+        "name": "University of Gloucestershire",
+        "inst": "University",
+        "location": "Cheltenham",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/213.png"
+    }
+]

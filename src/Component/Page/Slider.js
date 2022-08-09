@@ -7,7 +7,7 @@ import './Slider.css'
 function CarouselFadeExample() {
     return (
         <div className='mt-5'>
-            <h1 className='text-center heading font-bold text-5xl m-2'>Word's From Our Partner </h1>
+            <h1 className='text-center heading font-bold text-5xl m-2'>Word's From Our Student</h1>
             <p className='text-center'>Successful partners and users are the torchbearer of our endless effort to offer the best possible service.</p>
             <Carousel fade>
                 <Carousel.Item>

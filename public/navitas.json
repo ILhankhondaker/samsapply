@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Anglia Ruskin University",
+        "inst": "University",
+        "location": "Cambridge",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/99.png"
+    },
+    {
+        "id": 2,
+        "name": "Brunel University London",
+        "inst": "University",
+        "location": "N/A ",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/106.png"
+    },
+    {
+        "id": 3,
+        "name": "University of Hertfordshire",
+        "inst": "University",
+        "location": "N/A",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/125.png"
+    },
+    {
+        "id": 4,
+        "name": "University of Plymouth",
+        "inst": "University",
+        "location": "Plymouth",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/141.png"
+    },
+    {
+        "id": 5,
+        "name": "University of Portsmouth",
+        "inst": "University",
+        "location": "Portsmouth ",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/142.png"
+    },
+    {
+        "id": 6,
+        "name": "Robert Gordon University",
+        "inst": "University",
+        "location": "Aberdeen ",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/144.png"
+    },
+    {
+        "id": 7,
+        "name": "Swansea University",
+        "inst": "University",
+        "location": "Swansea",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/153.png"
+    },
+    {
+        "id": 8,
+        "name": "University of Leicester",
+        "inst": "University",
+        "location": "Leicester ",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/158.png"
+    },
+    {
+        "id": 9,
+        "name": "University of Northampton",
+        "inst": "University",
+        "location": "Northampton",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/197.png"
+    },
+    {
+        "id": 10,
+        "name": "Birmingham City University",
+        "inst": "University",
+        "location": "Birmingham",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/201.png"
+    },
+    {
+        "id": 11,
+        "name": "University Academy 92",
+        "inst": "University",
+        "location": "Manchester",
+        "img": ""
+    },
+    {
+        "id": 12,
+        "name": "Keele University",
+        "inst": "University",
+        "location": "Newcastle-under-Lyme",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/128.png"
+    }
+]

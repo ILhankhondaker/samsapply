@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "name": "Bournemouth University",
+        "inst": "University",
+        "location": "Poole",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/104.png"
+    },
+    {
+        "id": 2,
+        "name": "City, University of London",
+        "inst": "University",
+        "location": "London",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/109.gif"
+    },
+    {
+        "id": 3,
+        "name": "Cranfield University",
+        "inst": "University",
+        "location": "Bedford",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/111.png"
+    },
+    {
+        "id": 4,
+        "name": "University of Birmingham",
+        "inst": "University",
+        "location": "Birmingham ",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/331.png"
+    },
+    {
+        "id": 5,
+        "name": "University of Brighton",
+        "inst": "University",
+        "location": "Brighton",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/211.png"
+    },
+    {
+        "id": 6,
+        "name": "University of Bristol",
+        "inst": "University",
+        "location": "Bristol",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/276.png"
+    },
+    {
+        "id": 7,
+        "name": "University of Essex",
+        "inst": "University",
+        "location": "Essex",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/117.png"
+    },
+    {
+        "id": 8,
+        "name": "University of Glasgow",
+        "inst": "University",
+        "location": "Glasgow",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/119.png"
+    },
+    {
+        "id": 9,
+        "name": "University of Liverpool",
+        "inst": "University",
+        "location": "Liverpool",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/231.png"
+    },
+    {
+        "id": 10,
+        "name": "University of Nottingham",
+        "inst": "University",
+        "location": "Nottingham",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/233.png"
+    },
+    {
+        "id": 11,
+        "name": "University of Westminster",
+        "inst": "University",
+        "location": "London",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/164.png"
+    },
+    {
+        "id": 12,
+        "name": "University of York",
+        "inst": "University",
+        "location": "York",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/410.png"
+    },
+    {
+        "id": 13,
+        "name": "University of the West of England",
+        "inst": "University",
+        "location": "Bristol",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/543.png"
+    },
+    {
+        "id": 14,
+        "name": "Nottingham Trent University",
+        "inst": "University",
+        "location": "Nottingham",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/220.png"
+    },
+    {
+        "id": 15,
+        "name": "Queen Mary, University of London",
+        "inst": "University",
+        "location": "London",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/554.png"
+    }
+]

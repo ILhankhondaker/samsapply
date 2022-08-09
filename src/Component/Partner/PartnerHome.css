@@ -1,0 +1,19 @@
+.partnerbg {
+    background-color: #444444;
+    padding: 40px;
+}
+
+.partnerTitle {
+    color: #fcd756;
+}
+
+.seemore {
+    border: none;
+    font-size: 22px;
+    font-weight: 800;
+}
+
+.seemore:hover {
+    background-color: #dc3545;
+    color: burlywood;
+}

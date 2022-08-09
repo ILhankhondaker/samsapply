@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "name": "University of Hull",
+        "inst": "University",
+        "location": "Kingston Upon Hull ",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/127.png"
+    },
+    {
+        "id": 2,
+        "name": "London South Bank University",
+        "inst": "University",
+        "location": "London",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/135.png"
+    },
+    {
+        "id": 3,
+        "name": "Royal Holloway University of London",
+        "inst": "University",
+        "location": "N/A",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/145.png"
+    },
+    {
+        "id": 4,
+        "name": "University of Sunderland",
+        "inst": "University",
+        "location": "Sunderland",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/151.png"
+    },
+    {
+        "id": 5,
+        "name": "University of Reading",
+        "inst": "University",
+        "location": "Reading",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/159.png"
+    },
+    {
+        "id": 6,
+        "name": "University of Central Lancashire",
+        "inst": "University",
+        "location": "Preston",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/209.png"
+    },
+    {
+        "id": 7,
+        "name": "Royal Veterinary College of London",
+        "inst": "College",
+        "location": "London",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/289.png"
+    },
+    {
+        "id": 8,
+        "name": "CATS College London",
+        "inst": "College",
+        "location": "London",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/305.png"
+    },
+    {
+        "id": 9,
+        "name": "Courtauld Institute of Art",
+        "inst": "College",
+        "location": "London",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/549.png"
+    },
+    {
+        "id": 10,
+        "name": "Birkbeck, University of London",
+        "inst": "University",
+        "location": "London",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/547.png"
+    },
+    {
+        "id": 11,
+        "name": "Queen Mary, University of London",
+        "inst": "University",
+        "location": "London",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/554.png"
+    },
+    {
+        "id": 12,
+        "name": "Aston University",
+        "inst": "University",
+        "location": "Birmingham",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/100.png"
+    },
+    {
+        "id": 13,
+        "name": "University of Southampton",
+        "inst": "University",
+        "location": "Southampton",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/160.png"
+    }
+]

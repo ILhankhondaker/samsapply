@@ -7,7 +7,6 @@
 }
 
 .nav.sticky {
-
     position: fixed;
     top: 0;
     width: 100%;
@@ -21,4 +20,8 @@
 
 .navText {
     color: #261e69;
+}
+
+.texthover:hover {
+    color: rgb(235, 73, 73);
 }

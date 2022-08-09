@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Ulster University",
+        "inst": "University",
+        "location": "Belfast",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/154.png"
+    },
+    {
+        "id": 2,
+        "name": "University of Roehampton",
+        "inst": "University",
+        "location": "London",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/435.png"
+    },
+    {
+        "id": 3,
+        "name": "Northumbria University",
+        "inst": "University",
+        "location": "Newcastle upon Tyne",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/444.png"
+    },
+    {
+        "id": 4,
+        "name": "Solent University",
+        "inst": "University",
+        "location": "Southampton",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/540.png"
+    },
+    {
+        "id": 5,
+        "name": "Middlesex University",
+        "inst": "University",
+        "location": "London",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/139.png"
+    },
+    {
+        "id": 6,
+        "name": "London Metropolitan University",
+        "inst": "University",
+        "location": "London",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/528.png"
+    },
+    {
+        "id": 7,
+        "name": "University of South Wales",
+        "inst": "University",
+        "location": "Newport",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/308.png"
+    }
+]

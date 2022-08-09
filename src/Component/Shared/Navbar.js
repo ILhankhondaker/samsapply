@@ -28,35 +28,37 @@ const Navbar = () => {
             class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-gray-50 rounded-box w-52 navText font-bold"
           >
             <li>
-              <Link to="/">Home</Link>
+              <Link className="texthover" to="/">HOME</Link>
             </li>
             <li>
-              <Link to="aboutus">About US </Link>
+              <Link className="texthover" to="aboutus">ABOUT US </Link>
             </li>
-
-
-
             <li>
-              <Link to="contact">Contact</Link>
+              <Link className="texthover" to="partners-institutes">PARTNERS INSTITUTES</Link>
             </li>
           </ul>
         </div>
+
         <Link to="/" class="btn btn-ghost normal-case text-xl text-white font-bold ">
           {/* ===========menu logo ======= */}
           <img className="logo" src="https://samsapply.co.uk/landrick/images/SAMS-Apply-Logo-[208x32].svg" alt="" srcset="" />
         </Link>
+
       </div>
+
+
+      {/* For large  screen  */}
       <div class="navbar-center hidden lg:flex">
         <ul class="menu menu-horizontal p-0 navText font-bold">
           <li>
-            <Link to="/">Home</Link>
+            <Link className="texthover" to="/">HOME</Link>
           </li>
           <li>
-            <Link to="aboutus">About US</Link>
+            <Link className="texthover" to="aboutus">ABOUT US</Link>
           </li>
 
           <li>
-            <Link to="contact">Contact</Link>
+            <Link className="texthover" to="partners-institutes">PARTNERS INSTITUTES</Link>
           </li>
         </ul>
       </div>

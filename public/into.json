@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "name": "City, University of London",
+        "inst": "University",
+        "location": "London",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/109.gif"
+    },
+    {
+        "id": 2,
+        "name": "University of East Anglia",
+        "inst": "University",
+        "location": "Norwich",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/114.png"
+    },
+    {
+        "id": 3,
+        "name": "Glasgow Caledonian University",
+        "inst": "University",
+        "location": "Glasgow",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/118.png"
+    },
+    {
+        "id": 4,
+        "name": "Manchester Metropolitan University",
+        "inst": "University",
+        "location": "Manchester",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/137.png"
+    },
+    {
+        "id": 5,
+        "name": "University of Manchester",
+        "inst": "University",
+        "location": "Manchester",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/138.png"
+    },
+    {
+        "id": 6,
+        "name": "Newcastle University",
+        "inst": "University",
+        "location": "Newcastle upon Tyne",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/140.png"
+    },
+    {
+        "id": 7,
+        "name": "University of Stirling",
+        "inst": "University",
+        "location": "Stirling",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/161.png"
+    },
+    {
+        "id": 8,
+        "name": "Queen's University Belfast",
+        "inst": "University",
+        "location": "Belfast",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/198.png"
+    },
+    {
+        "id": 9,
+        "name": "University of Gloucestershire",
+        "inst": "University",
+        "location": "Cheltenham",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/213.png"
+    },
+    {
+        "id": 10,
+        "name": "University of Exeter",
+        "inst": "University",
+        "location": "Exeter",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/270.png"
+    },
+    {
+        "id": 11,
+        "name": "INTO London World Education Centre",
+        "inst": "University",
+        "location": "London",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/491.png"
+    }
+]

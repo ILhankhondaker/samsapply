@@ -4,7 +4,7 @@ import { FaArrowCircleRight } from 'react-icons/fa'
 
 const Introducing = () => {
     return (
-        <div class="hero min-h-screen bg-base-200 m-0 p-0">
+        <div class="hero min-h-screen bg-base-200 m-0 p-0 introducing">
             <div class="hero-content flex-col lg:flex-row mt-10 ">
 
                 <div>

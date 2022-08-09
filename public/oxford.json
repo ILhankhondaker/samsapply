@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Bangor University",
+        "inst": "University",
+        "location": "Bangor ",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/101.png"
+    },
+    {
+        "id": 2,
+        "name": "De Montfort University",
+        "inst": "University",
+        "location": "Leicester",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/112.png"
+    },
+    {
+        "id": 3,
+        "name": "University of Greenwich",
+        "inst": "University",
+        "location": "London",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/123.png"
+    },
+    {
+        "id": 4,
+        "name": "University of Dundee",
+        "inst": "University",
+        "location": "Dundee",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/155.png"
+    },
+    {
+        "id": 5,
+        "name": "Oxford Sixth Form College",
+        "inst": "Collage",
+        "location": "Oxford ",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/571.png"
+    },
+    {
+        "id": 6,
+        "name": "University of Bradford",
+        "inst": "University",
+        "location": "Bradford",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/105.png"
+    }
+]

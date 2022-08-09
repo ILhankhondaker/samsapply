@@ -31,9 +31,9 @@
     },
     {
         "id": 6,
-        "name": "Ulster University",
-        "location": "Belfast",
-        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/154.png"
+        "name": "University of Portsmouth",
+        "location": "Portsmouth",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/142.png"
     },
     {
         "id": 7,
@@ -43,14 +43,14 @@
     },
     {
         "id": 8,
-        "name": "University of Bedfordshire",
-        "location": "Luton",
-        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/102.png"
+        "name": "University of Sussex",
+        "location": "Brighton",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/152.png"
     },
     {
         "id": 9,
-        "name": "Manchester Metropolitan University",
-        "location": "Manchester",
-        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/137.png"
+        "name": "Cardiff University",
+        "location": "Cardiff",
+        "img": "https://samsglobal.co.uk/uploads/universities_image/logo/107.png"
     }
 ]
