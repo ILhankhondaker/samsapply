@@ -1,11 +1,15 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import Logo from '../../Images/ukhe.png'
 import "./Navbar.css"
+import { ImFacebook2 } from 'react-icons/im';
+
+import { FaWhatsappSquare } from 'react-icons/fa';
 
 const Navbar = () => {
   return (
-    <div class="navbar  bg-white  px-12 nav  sticky top-0">
-      <div class="navbar-start">
+    <div class="navbar mrg  bg-white  px-12 nav  sticky top-0">
+      <div class="navbar-start ">
         <div class="dropdown">
           <label tabindex="0" class="btn btn-ghost lg:hidden">
             <svg
@@ -41,7 +45,7 @@ const Navbar = () => {
 
         <Link to="/" class="btn btn-ghost normal-case text-xl text-white font-bold ">
           {/* ===========menu logo ======= */}
-          <img className="logo" src="https://samsapply.co.uk/landrick/images/SAMS-Apply-Logo-[208x32].svg" alt="" srcset="" />
+          <img className="logo" src={Logo} alt="" srcset="" />
         </Link>
 
       </div>
@@ -60,8 +64,21 @@ const Navbar = () => {
           <li>
             <Link className="texthover" to="partners-institutes">PARTNERS INSTITUTES</Link>
           </li>
+
         </ul>
+
       </div>
+
+
+      {/* =========add social media ===== */}
+
+      <div>
+        <a href="https://www.facebook.com/ukhighereducation.probono" target="_blank" rel="noopener noreferrer" className="text-3xl mx-2"> <ImFacebook2></ImFacebook2></a>
+
+        <a href="http://wa.me/+447375500046" target="_blank" rel="noopener noreferrer" className="text-4xl m-0"><FaWhatsappSquare /></a>
+      </div>
+
+
     </div>
   );
 };

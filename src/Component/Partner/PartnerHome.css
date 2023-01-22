@@ -1,10 +1,12 @@
 .partnerbg {
-    background-color: #444444;
+    background-color: #000000;
     padding: 40px;
 }
 
 .partnerTitle {
-    color: #fcd756;
+    margin: 15px;
+    /* color: #fcd756; */
+    color: #ef4444;
 }
 
 .seemore {

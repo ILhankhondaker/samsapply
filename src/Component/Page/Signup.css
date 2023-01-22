@@ -1,17 +1,18 @@
 .signup {
-    background-color: #182046;
+    /* background-color: #182046; */
+    background-color: #000000;
     background-image: url('https://samsapply.co.uk/landrick/images/Testimonial/Apply-Website-Banner-Lower%20(1).png');
     border-radius: 15px;
 }
 
-.signupTitle {
+/* .signupTitle {
     font-weight: 900;
     color: aqua;
-}
+} */
 
-.signupTitleSecond {
+/* .signupTitleSecond {
     font-weight: 900;
     font-size: 48px;
-    color: #fcd756;
+    color: #ffffff;
     margin: 20px;
-}
+} */

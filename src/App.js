@@ -15,20 +15,17 @@ function App() {
         pageId="102758198228272"
         appId="559555832235778"
       />
+
       <Navbar />
 
-
       <Routes>
-
         <Route path="/" element={<Home></Home>} />
         <Route path="aboutus" element={<Aboutus></Aboutus>} />
         <Route path='partners-institutes' element={<Allparters></Allparters>} />
+
       </Routes>
+
       <Footer />
-
-
-
-
 
     </div>
   );

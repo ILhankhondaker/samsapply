@@ -3,6 +3,13 @@
 }
 
 .b-color {
-    background-color: #182046;
+    /* background-color: #182046; */
+    /* background-color: #ffc400; */
+    background-color: #00000083;
     color: white;
+    /* color: #ef4444; */
+}
+
+.cdtitle {
+    color: #ef4444;
 }

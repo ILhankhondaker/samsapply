@@ -4,7 +4,8 @@
 }
 
 .item:hover {
-    background-color: #5c5988;
+    /* background-color: #5c5988; */
+    background-color: #000000d0;
     color: antiquewhite;
 }
 
@@ -13,7 +14,7 @@
 }
 
 .item:hover .card-title {
-    color: beige;
+    color: rgb(255, 255, 255);
 }
 
 

@@ -1,12 +1,18 @@
 .aboutt {
-    background-color: #dedbf0;
+    /* background-color: #dedbf0; */
+    background-color: #ececec;
 
 }
 
 .about-title {
-    color: #545554;
+    color: #000000;
+    font-weight: 700;
 }
 
 .about-heading {
-    color: #211d60;
+    font-weight: 900;
+    /* color: #211d60; */
+    /* color: #e43f52; */
+    /* color: #ff2e47; */
+    color: #ef4444;
 }

@@ -7,7 +7,7 @@ import { Link } from "react-router-dom";
 const PartnerHome = () => {
     return (
         <div className='partnerbg'>
-            <h1 className='text-center text-4xl font-bold partnerTitle'>Partner Institutes</h1>
+            <h1 className='text-center text-5xl font-bold partnerTitle'>Partner Institutes</h1>
             <p className='text-center text-white'>We have numerous partner institutions across the UK that offers range of courses on several levels and exclusive offers for our valued clients.<br></br>
                 Enjoy a smooth connectivity with our listed partners!</p>
             <Partners></Partners>

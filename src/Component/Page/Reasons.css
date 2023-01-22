@@ -1,7 +1,14 @@
+.bgcolor {
+    background-color: #ececec;
+}
+
 .boxx {
     border: none;
-    background-color: white;
+    /* background-color: white; */
+    background-color: #ececec;
 }
+
+
 
 .textstyle {
     font-size: 18px;

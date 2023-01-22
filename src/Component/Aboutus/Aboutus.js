@@ -7,7 +7,7 @@ import Vision from './Vision';
 const Aboutus = () => {
     return (
         <div >
-            <div className='top  ' > <h1 className='text-center text-5xl font-bold text-white mt-20'>About Us </h1></div>
+            <div className='top  ' > <h1 className='text-center text-5xl font-bold text-red-500 mt-20'>About Us </h1></div>
 
             <Mission></Mission>
             <Vision></Vision>

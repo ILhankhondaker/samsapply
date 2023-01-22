@@ -1,3 +1,13 @@
-.hero {
-    z-index: 5;
+.imgsize {
+    max-height: 180px;
+    max-width: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.axp {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }

@@ -3,11 +3,11 @@ import './About.css'
 
 const About = () => {
     return (
-        <div class="hero min-h-screen bg-base-200 aboutt">
+        <div class="hero min-h-screen bg-base-200 aboutt ">
             <div class="hero-content flex-col lg:flex-row mt-10 ">
 
-                <div>
-                    <h1 className='lg:text-4xl  m-3  about-title'>About SAMS Apply</h1>
+                <div className='lg:mr-40 '>
+                    <h1 className='lg:text-5xl  m-3  about-title'>About SAMS Apply</h1>
                     <h1 class="text-6xl lg:text-7xl font-bold  about-heading">FAST RESPONSE</h1>
                     <h1 class="lg:text-7xl font-bold  about-heading">RAPID REVENUE</h1>
 
